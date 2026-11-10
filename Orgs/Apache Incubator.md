@@ -1,7 +1,6 @@
 
 
-## Process
-### Incubation
+## Incubation Process
 
 *Retrieved from [The Apache Incubator Cookbook](https://incubator.apache.org/cookbook/#what_are_the_steps_to_becoming_an_apache_software_foundation_top_level_project)*
 

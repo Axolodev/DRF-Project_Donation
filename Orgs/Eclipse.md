@@ -5,6 +5,13 @@ cssclasses:
 
 *Retrieved from https://www.eclipse.org/projects/handbook/#starting* 
 
+## Summary of Stages
+
+1. Proposal
+2. Provisioning
+3. Incubation
+4. Mature
+5. Archived
 
 
 ## Life of a project at the Eclipse Foundation
