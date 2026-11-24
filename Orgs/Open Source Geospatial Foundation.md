@@ -1,7 +1,10 @@
 ---
 Website: https://www.osgeo.org/
-Incubation Program Website: https://www.osgeo.org/about/committees/incubation/ , https://wiki.osgeo.org/wiki/Incubation_Committee
 ---
+
+https://www.osgeo.org/about/committees/incubation/
+
+https://wiki.osgeo.org/wiki/Incubation_Committee
 
 ## Stages
 
@@ -16,6 +19,12 @@ The project must be:
 - **Social:** Use of open source licenses, collaboration, and open communication with the community
 - **Fair:** Contributions treated and accepted in a fair and consistent fashion. They should be protected with a **Code of Conduct**. 
 
+
+|   OSGeo Community Initiative  | OSGeo Project    |
+| --- | --- |
+|  ![[Pasted image 20261110131202.png\|300x300]]   |  ![[Pasted image 20261110131208.png\|300x300]]   |
+
+
 ## Incubation process to get to being recognised
 
 1. Completing the incubation application process and submitting it to the corresponding group
@@ -26,3 +35,4 @@ The project must be:
 6. IncCom and Mentor agree on project being ready for graduation / full status
 7. Chairman of the IncCom presents projects ready for graduation at the next meeting of the Board of Directors. Board of Directors accepts or rejects project graduation.
 8. After graduation, a member of the project is selected to report to the foundation board periodically on status.
+

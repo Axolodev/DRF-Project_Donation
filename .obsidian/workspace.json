@@ -6,6 +6,7 @@
       {
         "id": "10be61a19e18855a",
         "type": "tabs",
+        "dimension": 60.967302452316076,
         "children": [
           {
             "id": "b5896f165868f594",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orgs/Open Source Geospatial Foundation.md",
+                "file": "DRF Project Donation Framework.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Open Source Geospatial Foundation"
+              "title": "DRF Project Donation Framework"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a3e2c4b9c3608b0",
+        "type": "tabs",
+        "dimension": 39.032697547683924,
+        "children": [
+          {
+            "id": "856294790ad0eaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRF Project Incubation Framework.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DRF Project Incubation Framework"
             }
           }
         ]
@@ -83,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.94921875
+    "width": 261.94921875,
+    "collapsed": true
   },
   "right": {
     "id": "c8fc7f9cd185f577",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Donation Requirements.md",
+                "file": "DRF Project Donation Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +202,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "76487898c23275c4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -196,17 +229,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5896f165868f594",
+  "active": "0f15153eef7c11c5",
   "lastOpenFiles": [
-    "Orgs/Linux Foundation Networking (LFN).md",
+    "DRF Project Incubation Framework.md",
+    "DRF Project Donation Framework.md",
+    "Project Donation Requirements.md",
+    "Orgs/Apache Incubator Checklists/Transferring Resources Checklist.md",
+    "Pasted image 20261110131208.png",
+    "Pasted image 20261124133030.png",
     "Orgs/Open Source Geospatial Foundation.md",
     "Orgs/Eclipse.md",
     "Orgs/Apache Incubator.md",
-    "Project Donation Requirements.md",
-    "Orgs/Apache Incubator Checklists/Transferring Resources Checklist.md",
+    "Orgs/Linux Foundation Networking (LFN).md",
+    "DRF.md",
+    "Pasted image 20261110131202.png",
     "_Base.base",
     "assets/Pasted image 20261027092708.png",
     "Pasted image 20261027091355.png",

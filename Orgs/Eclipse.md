@@ -37,7 +37,7 @@ All projects start in the proposal phase. The Eclipse Foundation offers a propos
 - A stable codebase is required before starting incubation
 - Checklist to graduate a project
 	- Project team has demonstrated that they’re working in an open, transparent, and meritocratic manner
-	- Team members are otherwise engaged in activities that foster vendor neutrality
+	- Team members are engaged in activities that foster vendor neutrality
 	- Team members are faithfully engaging in the IP due diligence process and healthy security/vulnerability management
 	- Team members have engaged in a progress review
 	- Team members are distributing software
